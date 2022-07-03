@@ -1,1 +1,1 @@
-# statistics-with-pxthon-lecture-notes
+# statistics-with-python-lecture-notes
